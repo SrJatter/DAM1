@@ -1,0 +1,51 @@
+list
+addCasa 40819097P Laura 50
+addPlaca 40819097P 15 600.99 100
+addAparell 40819097P TV 90
+onCasa 40819097P
+onAparell 40819097P
+onaparell 40819097P TV
+addCasa 74324544K Mario 100
+addCasa 67025844A Luis 5
+addCasa 67025844A Luis 90
+addPlaca 40819097P 50 1900 320
+addPlaca 74324544K 50 1900 320
+addCasa 98517098W Mireia 150
+addAparell 98517098M Nevera 350
+addAparell 98517098W Nevera 350
+addAparell 40819097P Secador 12
+onAparell 40819097P Nevera
+offAparell
+onAparell 40819097P Secador
+list
+info 40819097P
+addPlaca 40819097P 20 0 200
+addPlaca 40819097P 20 900 200
+onAparell 40819097P TV
+onCasa 40819097P
+onAparell 40819097P Secador
+addAparell 98517098W Nevera 350
+addAparell 40819097P Nevera 350
+onAparell 40819097P TV
+offAparell 98517098M TV
+offAparell 40819097P Nevera
+info 40819097P
+offAparell 40819097P TV
+addCasa 67025844A Laia 60
+addPlaca 74324544K 20 710 200
+addAparell 98517098W TV -5
+info 98517098W
+addAparell 40819097P Forn
+addAparell 40819097P Forn 250
+info 67025844A
+addPlaca 50819097P 20 900 200
+addPlaca 98517098W 0 900 200
+addPlaca 98517098W 150 900 200
+onAparell 12345678A nevera
+list 67025844A
+addAparell 98517098W TV 75
+addPlaca 98517098W 150 900 0
+info 11111111T
+info 98517098W
+list
+quit
